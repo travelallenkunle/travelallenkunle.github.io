@@ -1,1 +1,7 @@
-theme: jekyll-theme-tactile
+# Site settings
+title: Allen Akinkunle's Travel Blog
+description: Modern-Blog A Elegant template for Jekyll
+keywords: Modern, Blogging, Fun
+author: Wferr
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://travel.allenkunle.me" # the base hostname & protocol for your site
